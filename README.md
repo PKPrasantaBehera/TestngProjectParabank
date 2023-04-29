@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/106430949/235321791-79e52df0-6ef8-47ac-8e15-cd5516c768ff.png)
+
 ⚡️⚡️ Automate different functionalities of "Para Bank" Web App ⚡️⚡️
 🌐 Website URL: https://parabank.parasoft.com/parabank/index.htm
 📝 The main Frameworks included in the project:
